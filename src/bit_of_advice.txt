@@ -1,0 +1,5 @@
+
+The First
+When specifying a collection of data,
+use abstract classes for satatypes and
+extended classes for variants
